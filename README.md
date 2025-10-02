@@ -1,1 +1,1 @@
-<b>Sistem Informasi Kegiatan Ekstrakurikuler</b<
+<b>Sistem Informasi Kegiatan Ekstrakurikuler</b>
