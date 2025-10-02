@@ -1,46 +1,46 @@
 # Sistem Informasi Ekstrakurikuler
 
-## 📌 Identitas
+## Identitas
 - **Nama** : Dimas Adjie Wibowo  
 - **Kelas** : XII RPL A  
 - **No Absen** : 3  
 
 ---
 
-## 🎯 Deskripsi
+## Deskripsi
 Aplikasi ini bertujuan untuk memudahkan **guru/pembimbing** dalam memonitoring kegiatan ekstrakurikuler di sekolah.  
 Dengan aplikasi ini, kegiatan absensi dan pencatatan jurnal dapat dilakukan lebih cepat, efisien, serta memudahkan kolaborasi antara siswa, pelatih, dan kesiswaan.  
 
 ---
 
-## ✨ Fitur Utama
-- 📋 **Absensi** kegiatan ekstrakurikuler  
-- 📑 **Laporan absen/jurnal**  
-- 📝 **Jurnal kegiatan**  
-- 👨‍🎓 **Manajemen siswa**  
-- 👨‍🏫 **Manajemen pelatih**  
-- 🏫 **Manajemen kesiswaan**  
+##  Fitur Utama
+- **Absensi** kegiatan ekstrakurikuler  
+- **Laporan absen/jurnal**  
+- **Jurnal kegiatan**  
+- **Manajemen siswa**  
+- **Manajemen pelatih**  
+- **Manajemen kesiswaan**  
 
 ---
 
-## 🔑 Akun Demo
+## Akun Demo
 Untuk mengakses aplikasi, gunakan akun berikut:
 
-### 👨‍🎓 Siswa
+### Siswa
 - Username: `dani`  
 - Password: `dani123`  
 
-### 👨‍🏫 Pelatih
+### Pelatih
 - Username: `alan`  
 - Password: `alan123`  
 
-### 🏫 Kesiswaan
+### Kesiswaan
 - Username: `bagus`  
 - Password: `bagus123`  
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - PHP  
 - CSS
 - Bootsrap  
