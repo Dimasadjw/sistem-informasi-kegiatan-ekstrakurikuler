@@ -2,8 +2,7 @@
 
 ## Identitas
 - **Nama** : Dimas Adjie Wibowo  
-- **Kelas** : XII RPL A  
-- **No Absen** : 3  
+- **Kelas** : XII RPL A    
 
 ---
 
@@ -49,8 +48,8 @@ Untuk mengakses aplikasi, gunakan akun berikut:
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
-Ikuti langkah berikut agar aplikasi bisa dijalankan di komputer/laptop kamu:
+## Cara Menjalankan Aplikasi
+Ikuti langkah berikut agar aplikasi bisa dijalankan di komputer/laptop:
 
 1. **Clone repository ini** ke dalam komputer:
    ```bash
