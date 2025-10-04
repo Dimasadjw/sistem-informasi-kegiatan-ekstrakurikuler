@@ -1,4 +1,8 @@
+# Abaikan folder frontend agar tidak mendominasi
 /css/* linguist-detectable=false
 /scss/* linguist-detectable=false
 /vendor/* linguist-detectable=false
 /node_modules/* linguist-detectable=false
+
+# Utamakan PHP agar dihitung sebagai bahasa utama
+*.php linguist-detectable=true
