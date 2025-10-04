@@ -2,3 +2,4 @@
 /scss/* linguist-detectable=false
 /vendor/* linguist-detectable=false
 /node_modules/* linguist-detectable=false
+.php linguist-detectable=true
