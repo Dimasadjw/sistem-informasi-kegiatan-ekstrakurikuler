@@ -1,4 +1,4 @@
-# Sistem Informasi Ekstrakurikuler
+# Sistem Informasi Kegiatan Ekstrakurikuler
 
 ## Identitas
 - **Nama** : Dimas Adjie Wibowo  
